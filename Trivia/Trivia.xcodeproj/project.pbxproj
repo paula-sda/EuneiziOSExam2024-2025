@@ -18,7 +18,6 @@
 		C1F3D7502CE24D8700F1C0B4 /* TriviaQuestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3D74F2CE24D8700F1C0B4 /* TriviaQuestion.swift */; };
 		C1F3D7522CE24DBF00F1C0B4 /* TriviaGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3D7512CE24DBF00F1C0B4 /* TriviaGame.swift */; };
 		C1F3D7542CE2517800F1C0B4 /* TriviaResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3D7532CE2517800F1C0B4 /* TriviaResultViewController.swift */; };
-		C1F3D7572CE253EE00F1C0B4 /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3D7562CE253EE00F1C0B4 /* RankingViewController.swift */; };
 		C1F3D7592CE254A000F1C0B4 /* ScoreEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3D7582CE254A000F1C0B4 /* ScoreEntry.swift */; };
 		C1F3D75E2CE2550D00F1C0B4 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = C1F3D75D2CE2550D00F1C0B4 /* RealmSwift */; };
 		C1F3D7602CE2554300F1C0B4 /* RankingDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3D75F2CE2554300F1C0B4 /* RankingDataSource.swift */; };
@@ -38,7 +37,6 @@
 		C1F3D74F2CE24D8700F1C0B4 /* TriviaQuestion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaQuestion.swift; sourceTree = "<group>"; };
 		C1F3D7512CE24DBF00F1C0B4 /* TriviaGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaGame.swift; sourceTree = "<group>"; };
 		C1F3D7532CE2517800F1C0B4 /* TriviaResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaResultViewController.swift; sourceTree = "<group>"; };
-		C1F3D7562CE253EE00F1C0B4 /* RankingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
 		C1F3D7582CE254A000F1C0B4 /* ScoreEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreEntry.swift; sourceTree = "<group>"; };
 		C1F3D75F2CE2554300F1C0B4 /* RankingDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -126,7 +124,6 @@
 		C1F3D7552CE253E300F1C0B4 /* Ranking */ = {
 			isa = PBXGroup;
 			children = (
-				C1F3D7562CE253EE00F1C0B4 /* RankingViewController.swift */,
 				C1F3D7582CE254A000F1C0B4 /* ScoreEntry.swift */,
 				C1F3D75F2CE2554300F1C0B4 /* RankingDataSource.swift */,
 			);
@@ -220,7 +217,6 @@
 				C1F3D7502CE24D8700F1C0B4 /* TriviaQuestion.swift in Sources */,
 				C13334122CE0CFD4008F9E67 /* SceneDelegate.swift in Sources */,
 				C13334132CE0CFD4008F9E67 /* ViewController.swift in Sources */,
-				C1F3D7572CE253EE00F1C0B4 /* RankingViewController.swift in Sources */,
 				C1F3D7592CE254A000F1C0B4 /* ScoreEntry.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
