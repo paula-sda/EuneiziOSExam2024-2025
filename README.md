@@ -4,11 +4,12 @@ Se te proporciona un proyecto iOS que implementa un juego Trivia básico. La ló
 
 A continuación, un ejemplo del resultado visual esperado:
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/martarodriguezm/EuneiziOSExam2024-2025/blob/main/trivia2.png?raw=true" alt="App navigation 2" width="600"/>
+  <img src="https://github.com/martarodriguezm/EuneiziOSExam2024-2025/blob/main/trivia1.png?raw=true" alt="App navigation 1" width="600"/>
 </div>
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/martarodriguezm/EuneiziOSExam2024-2025/blob/main/trivia2.png?raw=true" alt="App navigation 2" width="600"/>
 </div>
+
 ---
 
 ## Tiempo
@@ -110,7 +111,7 @@ You are provided with an iOS project that implements a basic Trivia game. The ga
 
 Below is an example of the expected visual result:
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/martarodriguezm/EuneiziOSExam2024-2025/blob/main/trivia2.png?raw=true" alt="App navigation 2" width="600"/>
+  <img src="https://github.com/martarodriguezm/EuneiziOSExam2024-2025/blob/main/trivia1.png?raw=true" alt="App navigation 1" width="600"/>
 </div>
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/martarodriguezm/EuneiziOSExam2024-2025/blob/main/trivia2.png?raw=true" alt="App navigation 2" width="600"/>
