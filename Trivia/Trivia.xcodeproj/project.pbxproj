@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F71E64E2EBA4E2A00D05EDC /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F71E64D2EBA4E2A00D05EDC /* RankingViewController.swift */; };
 		C133340D2CE0CFD4008F9E67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C13334042CE0CFD4008F9E67 /* Assets.xcassets */; };
 		C133340F2CE0CFD4008F9E67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C13334072CE0CFD4008F9E67 /* LaunchScreen.storyboard */; };
 		C13334102CE0CFD4008F9E67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C13334092CE0CFD4008F9E67 /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F71E64D2EBA4E2A00D05EDC /* RankingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
 		C13333EB2CE0CF84008F9E67 /* Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C13334032CE0CFD4008F9E67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C13334042CE0CFD4008F9E67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 			children = (
 				C1F3D7582CE254A000F1C0B4 /* ScoreEntry.swift */,
 				C1F3D75F2CE2554300F1C0B4 /* RankingDataSource.swift */,
+				3F71E64D2EBA4E2A00D05EDC /* RankingViewController.swift */,
 			);
 			path = Ranking;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				C1F3D74A2CE24D0B00F1C0B4 /* TriviaGameViewController.swift in Sources */,
 				C1F3D7602CE2554300F1C0B4 /* RankingDataSource.swift in Sources */,
 				C1F3D7542CE2517800F1C0B4 /* TriviaResultViewController.swift in Sources */,
+				3F71E64E2EBA4E2A00D05EDC /* RankingViewController.swift in Sources */,
 				C1F3D7502CE24D8700F1C0B4 /* TriviaQuestion.swift in Sources */,
 				C13334122CE0CFD4008F9E67 /* SceneDelegate.swift in Sources */,
 				C13334132CE0CFD4008F9E67 /* ViewController.swift in Sources */,
